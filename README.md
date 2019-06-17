@@ -9,3 +9,6 @@
 ## multiple config files
 `goconf.LoadConfig("config.ini", "config-2.ini", "config-n.ini")`
 
+## a better choice 
+https://github.com/Unknwon/goconfig
+
