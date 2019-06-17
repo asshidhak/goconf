@@ -1,1 +1,4 @@
-# goconf
+## useage
+```
+
+```
